@@ -1,5 +1,5 @@
 # HTS_codon_analyzer
-## Reads, filters and analyzes high-throughput sequencing (HTS) data 
+ Reads, filters and analyzes high-throughput sequencing (HTS) data 
  
  
  Created by AGNES Toth-Petroczy, 31.05.2011
